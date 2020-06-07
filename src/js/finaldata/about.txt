@@ -1,0 +1,4 @@
+will use data from viewbookcontext to show their detail.
+viewbookcontext is updated in "js/displaybooks/.."
+
+displays Books details on a single page

@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/public
+
+
+# misc
+.DS_Store
+.env.development.local
+.env.test.local
+.env.production.local
+react-app-env.d.ts
+.env.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#unused components and other stuffs
+/unused_comps

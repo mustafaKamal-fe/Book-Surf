@@ -1,0 +1,10 @@
+formSearchUiResults >  render google books cards or go to error/nybooks..so
+formSearchUiResults > nyBooks or formSearchUiResults > ErorrHandlerUi
+
+
+nybooks > NyOtherBooks or nybooks > NyAllBestBooks
+
+
+
+finally, bookcomponent display ny cards 
+         bookslist display google cards

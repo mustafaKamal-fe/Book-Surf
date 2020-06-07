@@ -1,0 +1,21 @@
+.search-wrapper-mobile {
+  z-index: 1000;
+  border-radius: 20px;
+  color: black;
+  padding: 0 1rem;
+  &-input {
+    border: none;
+    border-radius: 20px;
+  }
+
+  &-find-logo {
+    border-radius: 20px;
+  }
+  &:focus {
+    box-shadow: none !important;
+  }
+}
+
+.search-wrapper-mobile {
+  display: none;
+}
