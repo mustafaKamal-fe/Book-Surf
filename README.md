@@ -1,7 +1,7 @@
 ﻿# Book Surf🏄🏄🏄
 
 Book surf is an open source project that can help users find and serach
-books easily from different sources. The project used React framework and a
+books easily from different sources. The project used React framework and some
 other related set of tools.
 
 # How To Contribute?
