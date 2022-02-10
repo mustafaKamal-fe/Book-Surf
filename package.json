@@ -59,6 +59,6 @@
     "@types/lodash.values": "^4.3.6",
     "@types/styled-components": "^5.1.0",
     "bootstrap": "^4.4.1",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
